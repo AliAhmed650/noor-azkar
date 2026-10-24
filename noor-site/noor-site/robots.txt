@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://extraordinary-baklava-4700b4.netlify.app/sitemap.xml
